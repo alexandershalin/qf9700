@@ -1,3 +1,6 @@
+## QF9700 USB to LAN adapter driver for Raspberry OS
+Fork of [this repo](https://github.com/bzapal/usb-2-10-100m-ethernet-adapter-rd9700).
+
 1， 建立编译环境：
 1.1 如果是X86、MIPS等宿主平台，请确认编译环境已经ok。
 1.2 如果是ARM等目标平台，请确认交叉编译环境已经ok。
